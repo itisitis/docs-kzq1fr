@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-sxfzp1.koi888win.online/sitemap.xml
